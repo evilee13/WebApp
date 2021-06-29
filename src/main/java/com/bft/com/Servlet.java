@@ -38,7 +38,7 @@ public class Servlet extends HttpServlet {
         person3.setLastName("Михайлова");
 
         Person person4 = new Person();
-        person4.setFirstName("");
+        person4.setFirstName("Иван");
         person4.setLastName("Иванов");
 
         Person person5 = new Person();

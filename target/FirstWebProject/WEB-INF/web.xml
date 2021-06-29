@@ -6,7 +6,7 @@
   <display-name>Archetype Created Web Application</display-name>
   <filter>
     <filter-name>CharacterSetFilter</filter-name>
-    <filter-class>com.bft.com.CharacterSerFilter</filter-class>
+    <filter-class>com.bft.com.CharacterSetFilter</filter-class>
   </filter>
 
   <filter-mapping>
