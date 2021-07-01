@@ -8,7 +8,6 @@
     <filter-name>CharacterSetFilter</filter-name>
     <filter-class>com.bft.com.CharacterSetFilter</filter-class>
   </filter>
-
   <filter-mapping>
     <filter-name>CharacterSetFilter</filter-name>
     <url-pattern>/*</url-pattern>
